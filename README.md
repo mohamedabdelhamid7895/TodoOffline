@@ -28,7 +28,7 @@ A feature-rich, offline-first Todo application built with React Native, Redux, a
 * Node.js (version 18 or later)
 * Yarn (version 3.6.4 or later)
 * React Native development environment set up ([React Native - Environment Setup](https://reactnative.dev/docs/environment-setup))
-
+<img src='https://github.com/mohamedabdelhamid7895/todoOffline/blob/main/src/assets/homepage.jpg' />
 ### Installation
 
 1. Clone the repository:
